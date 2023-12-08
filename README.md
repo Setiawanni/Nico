@@ -1,1 +1,4 @@
 # Nico
+time
+happiness
+loneliness
